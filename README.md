@@ -1,2 +1,2 @@
 # Logistics_Ukraine
-Military Logistics Supply Chain Optimization Program for Ukraine
+This program models the distribution of military supplies from warehouses to various cities in Ukraine. Each warehouse has a specific supply capacity, and each city has a defined demand. The program ensures that the total supply across all warehouses is sufficient to meet the total demand from the cities. The transportation costs between warehouses and cities are represented in a matrix, and the supply distribution is optimized to cover all the demands while accounting for these costs.
